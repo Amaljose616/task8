@@ -1,0 +1,22 @@
+h2{
+
+   color:white;
+   background-color: slategray;
+   font-size: xx-large;
+   text-decoration: wavy;
+   text-align: right;
+}
+
+p{
+
+    color:lightslategray;
+    font-style: initial;
+    column-count: 2;
+    
+}
+ul{
+
+    border-width: 3px;
+    border-style: solid;
+}
+
